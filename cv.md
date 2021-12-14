@@ -17,3 +17,26 @@ I am a 27-years-old marketing specialist who decided to change career and dive d
 
 I believe that
 > Life is all about learning.
+
+***
+### Hard Skills
+***
+- HTML
+- CSS (+ Bootstrap)
+- JS (fundamentals)
+- Git
+- Figma/Photoshop
+
+***
+### Code Example
+***
+
+```
+function maps(x){
+ let y = [];
+ for (let i = 0; i < x.length ; i++){
+   y[i] = x[i] * 2;
+ }
+  return y;
+}
+```
