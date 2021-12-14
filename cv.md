@@ -59,4 +59,4 @@ function maps(x){
 
 **Russian** - Native\
 **Polish** - A2\
-**English** - C2 (reading and listening, according to [EFSET](https://www.efset.org/cert/mYDGrv) 
+**English** - C2 (reading and listening, according to [EFSET](https://www.efset.org/cert/mYDGrv))
