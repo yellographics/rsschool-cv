@@ -40,3 +40,23 @@ function maps(x){
   return y;
 }
 ```
+
+***
+### Education
+***
+**Secondary/Higher**
+- Minsk State Linguistic College
+- Belarusian State University of Informatics and Radioelectronics
+
+**Courses**
+- FreeCodeCamp
+- TeachMeSkills (front-end development, in progress)
+- RS-School (front-end development, in progress)
+
+***
+### Languages
+***
+
+**Russian** - Native\
+**Polish** - A2\
+**English** - C2 (reading and listening, according to [EFSET](https://www.efset.org/cert/mYDGrv) 
