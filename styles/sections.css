@@ -1,0 +1,124 @@
+.section-title {
+    font-family: Lato;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    margin-left: 50px;
+}
+
+.section:not(.info) {
+    width: 70%;
+    margin: 0 auto;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 12px;
+    margin-top: 60px;
+    padding: 30px 25px 30px 25px;
+}
+
+.contact-info {
+    box-shadow: 15px 15px 0px #3DC39B;
+}
+
+.contact-info ul {
+    margin-left: 50px;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.contact-info ul li, .skills ul li {
+    padding-top: 20px;
+}
+
+.contact-info ul li span {
+    font-weight: bold;
+}
+
+.about {
+    box-shadow: 15px 15px 0px #FE74A6;
+}
+
+.about p {
+    margin-left: 50px;
+}
+
+.section.skills {
+    box-shadow: 15px 15px 0px #ffe987;  
+    width: 30%;  
+    margin-right: 0;
+}
+
+.skills ul {
+    margin-left: 50px;
+    padding-left: 0;
+}
+
+.section.code {
+    box-shadow: 15px 15px 0px #5B6DFF;
+    width: 30%;  
+    margin-left: 0;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+
+.section.code {    
+    padding-left: 50px;
+}
+
+.section.code h2{
+    margin-left: 0;
+}
+
+.projects {
+    box-shadow: 15px 15px 0px #eb387c;
+}
+
+.projects h2 {
+    text-align: center;
+    margin-left: 0;
+}
+
+.projects-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;       
+}
+
+.project {
+    max-width: 450px;
+    padding: 20px 15px 20px 15px;
+    box-sizing: border-box;    
+}
+
+.project p {
+    margin: 0;
+    font-family: Lato;    
+    font-weight: 800;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.project img {
+    width: 400px;
+    border-radius: 12px;   
+}
+
+.education {
+    box-shadow: 15px 15px 0px #45daff;
+}
+
+.education ul, .education h3 {
+    margin-left: 50px;
+}
+
+.languages {
+    box-shadow: 15px 15px 0px #fcb360;    
+}
+
+.languages ul {
+    margin-left: 50px;
+}
