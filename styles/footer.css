@@ -1,0 +1,13 @@
+.footer .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer img {
+    width: 50px;
+}
+
+.footer p {
+    font-weight: 600;
+}
