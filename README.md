@@ -1,1 +1,5 @@
-https://yellographics.github.io/rsschool-cv/
+
+https://yellographics.github.io/rsschool-cv/cv
+
+
+
