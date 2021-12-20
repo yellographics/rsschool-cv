@@ -105,6 +105,12 @@
 .project img {
     width: 400px;
     border-radius: 12px;   
+    transition: .3s;
+}
+
+.project img:hover {
+    cursor: pointer;
+    filter: opacity(90%);
 }
 
 .education {
@@ -117,6 +123,14 @@
 
 .languages {
     box-shadow: 15px 15px 0px #fcb360;    
+}
+
+.languages span {
+    font-weight: bold;
+}
+
+.underlined {
+    text-decoration: underline;
 }
 
 .languages ul {
